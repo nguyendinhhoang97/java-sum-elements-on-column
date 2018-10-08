@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalculateSumByColumn {
+public class CalculateSumOnColumn {
     public static void main(String[] args) {
         int[][] array;
         int row;
